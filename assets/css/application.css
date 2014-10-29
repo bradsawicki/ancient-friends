@@ -85,8 +85,8 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-  font-size: 50px;
-  font-size: 3.125rem;
+  font-size: 48px;
+  font-size: 3rem;
 }
 @media (min-width: 600px) {
   h1 {
@@ -295,8 +295,13 @@ a:hover {
 }
 
 .header {
-  padding: 3em 0 2em;
+  padding: 1.5em 0 2em;
   text-align: center;
+}
+@media (min-width: 600px) {
+  .header {
+    padding: 3em 0 2em;
+  }
 }
 
 .footer {
