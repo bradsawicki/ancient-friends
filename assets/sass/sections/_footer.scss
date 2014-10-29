@@ -1,0 +1,6 @@
+
+.footer {
+  @include font-size(16px);
+  padding: $base*4 0 $base*5;
+  text-align: center;
+}

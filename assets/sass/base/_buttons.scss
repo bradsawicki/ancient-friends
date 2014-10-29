@@ -1,0 +1,29 @@
+
+a {
+	@include transition(all 0.15s ease-in);
+	color: $red;
+	
+  &:hover {
+    color: darken($red, 50%);
+  }
+}
+
+.btn {
+  @include font-size(24px);
+  display: inline-block;
+  padding: 0.75em 1.25em;
+  background: $red;
+  color: $creme;
+  font-weight: $bold;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  
+  &:hover {
+    color: #fff;
+    background: darken($red, 4%);
+  }
+  
+  &.small {
+    @include font-size(20px);
+  }
+}

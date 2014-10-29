@@ -1,0 +1,10 @@
+body {
+  background: $creme $bg no-repeat center top;
+}
+
+.wrapper {
+  @include cf;
+  max-width: 1800px;
+  width: 92%;
+  margin: 0 auto;
+}
