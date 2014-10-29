@@ -85,26 +85,56 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-  font-size: 122px;
-  font-size: 7.625rem;
+  font-size: 50px;
+  font-size: 3.125rem;
+}
+@media (min-width: 600px) {
+  h1 {
+    font-size: 72px;
+    font-size: 4.5rem;
+  }
+}
+@media (min-width: 900px) {
+  h1 {
+    font-size: 122px;
+    font-size: 7.625rem;
+  }
 }
 
 h2 {
-  font-size: 50px;
-  font-size: 3.125rem;
+  font-size: 32px;
+  font-size: 2rem;
   margin-bottom: 0.25em;
+}
+@media (min-width: 900px) {
+  h2 {
+    font-size: 50px;
+    font-size: 3.125rem;
+  }
 }
 
 h3 {
-  font-size: 24px;
-  font-size: 1.5rem;
+  font-size: 20px;
+  font-size: 1.25rem;
   margin-bottom: 0.25em;
+}
+@media (min-width: 900px) {
+  h3 {
+    font-size: 24px;
+    font-size: 1.5rem;
+  }
 }
 
 p {
-  font-size: 24px;
-  font-size: 1.5rem;
+  font-size: 20px;
+  font-size: 1.25rem;
   margin-bottom: 1em;
+}
+@media (min-width: 900px) {
+  p {
+    font-size: 24px;
+    font-size: 1.5rem;
+  }
 }
 
 strong {
@@ -206,6 +236,12 @@ em {
 
 body {
   background: #faf9d9 url('/assets/images/bg.jpg?1414596997') no-repeat center top;
+  background-size: contain;
+}
+@media (min-width: 900px) {
+  body {
+    background-size: auto;
+  }
 }
 
 .wrapper {
@@ -236,13 +272,18 @@ a:hover {
 .btn {
   font-size: 24px;
   font-size: 1.5rem;
-  display: inline-block;
+  display: block;
   padding: 0.75em 1.25em;
   background: #ee333d;
   color: #faf9d9;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.02em;
+}
+@media (min-width: 900px) {
+  .btn {
+    display: inline-block;
+  }
 }
 .btn:hover {
   color: #fff;
@@ -259,16 +300,24 @@ a:hover {
 }
 
 .footer {
-  font-size: 16px;
-  font-size: 1rem;
-  padding: 96px 0 120px;
+  padding: 48px 0;
   text-align: center;
+}
+@media (min-width: 600px) {
+  .footer {
+    padding: 96px 0 120px;
+  }
 }
 
 .main {
   text-align: center;
 }
 .main iframe {
-  margin-bottom: 3em;
+  margin-bottom: 2em;
   max-width: 720px;
+}
+@media (min-width: 600px) {
+  .main iframe {
+    margin-bottom: 3em;
+  }
 }

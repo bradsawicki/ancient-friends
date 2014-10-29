@@ -3,7 +3,11 @@
   text-align: center;
   
   iframe {
-    margin-bottom: 3em;
+    margin-bottom: 2em;
     max-width: 720px;
+
+    @include bp-min-width($small) {
+      margin-bottom: 3em;  
+    }
   }
 }

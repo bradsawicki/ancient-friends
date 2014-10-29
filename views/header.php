@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Ancient Friends</title>
   <link href="/assets/css/application.css" rel="stylesheet" media="all">
   <script src="//use.typekit.net/bof1wkx.js"></script>
@@ -13,8 +14,6 @@
 
   <header class="header">
     <div class="wrapper">
-          
       <h1>Ancient Friends</h1>
-          
     </div>
   </header>

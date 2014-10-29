@@ -10,13 +10,17 @@ a {
 
 .btn {
   @include font-size(24px);
-  display: inline-block;
+  display: block;
   padding: 0.75em 1.25em;
   background: $red;
   color: $creme;
   font-weight: $bold;
   text-transform: uppercase;
   letter-spacing: 0.02em;
+
+  @include bp-min-width($large) {
+    display: inline-block;
+  }
   
   &:hover {
     color: #fff;
