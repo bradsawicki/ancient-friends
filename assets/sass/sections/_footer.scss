@@ -4,6 +4,6 @@
   text-align: center;
 
   @include bp-min-width($small) {
-    padding: $base*4 0 $base*5;
+    padding: $base*2 0 $base*5;
   }
 }
