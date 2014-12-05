@@ -8,10 +8,10 @@
   
     <h3>Next Show</h3>    
     <div class="show">
-      <h4><em>Power Mountain</em> EP Release Party</h4>
-      <p>November 22 @ <a href="http://www.lh-st.com/Shows/11-22-2014+Forgotten+Species">Schubas</a> &ndash; Chicago, IL (<a href="https://goo.gl/maps/gDBF9" target="_blank">Map</a>)</p>
-      <p class="show-info">9pm / 21+ / $8 ($10 door)</p>
-      <p><a href="http://www.lh-st.com/Shows/11-22-2014+Forgotten+Species" class="btn small">Buy Tix</a></p>
+      <h4>Noise For Toys Benefit</h4>
+      <p>December 13 @ <a href="http://www.cobralounge.com/event/733497-blane-fonda-noise-fm-bring-chicago/">Cobra Lounge</a> &ndash; Chicago, IL (<a href="https://goo.gl/maps/RalNK" target="_blank">Map</a>)</p>
+      <p class="show-info">9pm / 21+ / $10 or $5 w/ a Toy</p>
+      <p><a href="https://www.ticketfly.com/purchase/event/733497" class="btn small">Buy Tix</a></p>
     </div>
 
   </div>
