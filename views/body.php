@@ -8,10 +8,11 @@
   
     <h3>Next Show</h3>    
     <div class="show">
-      <h4>Noise For Toys Benefit</h4>
-      <p>December 13 @ <a href="http://www.cobralounge.com/event/733497-blane-fonda-noise-fm-bring-chicago/">Cobra Lounge</a> &ndash; Chicago, IL (<a href="https://goo.gl/maps/RalNK" target="_blank">Map</a>)</p>
-      <p class="show-info">9pm / 21+ / $10 or $5 w/ a Toy</p>
-      <p><a href="https://www.ticketfly.com/purchase/event/733497" class="btn small">Buy Tix</a></p>
+      <h4>Gapers Block - Stars Align</h4>
+      <p>January 15 @ <a href="http://www.yelp.com/biz/the-gingerman-tavern-chicago">The Gingerman Tavern</a> &ndash; Chicago, IL (<a href="https://goo.gl/maps/JzMBH" target="_blank">Map</a>)</p>
+      <p class="show-info">7:30pm / 21+ / FREE</p>
+      <p>Solo collaboration with Bryan Kveton of Sunjacket for a mix of each others songs and covers.
+      <p><a href="http://gapersblock.com/transmission/2014/12/17/stars_align_brad_sawicki_and_bryan_kveton/" class="btn small">More Info</a></p>
     </div>
 
   </div>

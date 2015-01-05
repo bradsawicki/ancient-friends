@@ -16,6 +16,16 @@
   margin-bottom: 2em;
 }
 
-.show p:first-of-type {
-  margin-bottom: 6px;
+.show {
+  max-width: 500px;
+  margin: 0 auto;
 }
+
+.show p {
+  margin-bottom: 1em;
+  
+  &:last-of-type {
+    margin-bottom: 0;
+  }
+}
+
