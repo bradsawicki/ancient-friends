@@ -132,14 +132,15 @@ h4 {
 }
 @media (min-width: 900px) {
   h4 {
-    font-size: 24px;
-    font-size: 1.5rem;
+    font-size: 28px;
+    font-size: 1.75rem;
   }
 }
 
 p {
   font-size: 20px;
   font-size: 1.25rem;
+  line-height: 1.25;
   margin-bottom: 1em;
 }
 @media (min-width: 900px) {
@@ -352,5 +353,9 @@ a:hover {
   margin-bottom: 1em;
 }
 .show p:last-of-type {
+  margin-bottom: 0;
+}
+
+.show .show-info {
   margin-bottom: 0;
 }
