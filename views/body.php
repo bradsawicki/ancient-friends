@@ -9,7 +9,7 @@
   
     <h3>Next Show</h3>    
     <div class="show">
-      <h4>May 30</h4>
+      <h4>May 30 - EP Release Party</h4>
       <p class="show-info"><a href="http://www.lh-st.com/Shows/05-30-2015+Ancient+Friends" target="_blank">Schubas</a></p>
       <p class="show-info">Chicago, IL (<a href="https://goo.gl/maps/HAqI1" target="_blank">Map</a>)</p>
       <p class="show-info">9pm / 21+ / $8(adv)/$10(door)</p>
