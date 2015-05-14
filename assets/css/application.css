@@ -75,7 +75,7 @@ a {
 }
 
 body {
-  color: #2e2e28;
+  color: #fff;
   font: 400 1em/1.5em "ff-spinoza-web-pro", Georgia, serif;
 }
 
@@ -248,13 +248,7 @@ em {
 }
 
 body {
-  background: #faf9d9 url('/assets/images/bg.jpg?1414596997') no-repeat center top;
-  background-size: contain;
-}
-@media (min-width: 900px) {
-  body {
-    background-size: auto;
-  }
+  background: #000 url('/assets/images/bg-boat.jpg?1431626586');
 }
 
 .wrapper {
@@ -276,10 +270,10 @@ a {
   -o-transition: all 0.15s ease-in;
   -webkit-transition: all 0.15s ease-in;
   transition: all 0.15s ease-in;
-  color: #ee333d;
+  color: #a80023;
 }
 a:hover {
-  color: #1f0304;
+  color: #db002e;
 }
 
 .btn {
@@ -287,8 +281,8 @@ a:hover {
   font-size: 1.5rem;
   display: block;
   padding: 0.75em 1.25em;
-  background: #ee333d;
-  color: #faf9d9;
+  background: #a80023;
+  color: #fff;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.02em;
@@ -300,7 +294,7 @@ a:hover {
 }
 .btn:hover {
   color: #fff;
-  background: #ec202b;
+  background: #db002e;
 }
 .btn.small {
   font-size: 20px;

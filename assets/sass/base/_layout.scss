@@ -1,10 +1,5 @@
 body {
-  background: $creme $bg no-repeat center top;
-  background-size: contain;
-
-  @include bp-min-width($large) {
-    background-size: auto;
-  }
+  background: #000 $bg-boat;
 }
 
 .wrapper {
