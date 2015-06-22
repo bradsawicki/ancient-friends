@@ -9,12 +9,12 @@
   
     <h3>Next Show</h3>    
     <div class="show">
-      <h4>May 30 - EP Release Party</h4>
-      <p class="show-info"><a href="http://www.lh-st.com/Shows/05-30-2015+Ancient+Friends" target="_blank">Schubas</a></p>
-      <p class="show-info">Chicago, IL (<a href="https://goo.gl/maps/HAqI1" target="_blank">Map</a>)</p>
-      <p class="show-info">9pm / 21+ / $8(adv)/$10(door)</p>
-      <p>w/ Blane Fonda, Marques Morel</p>
-      <p><a href="http://www.lh-st.com/Shows/05-30-2015+Ancient+Friends" class="btn small">Buy Tickets</a></p>
+      <h4>July 3</h4>
+      <p class="show-info"><a href="http://emptybottle.com/show/6021505/" target="_blank">Empty Bottle</a></p>
+      <p class="show-info">Chicago, IL (<a href="https://goo.gl/maps/dALy0" target="_blank">Map</a>)</p>
+      <p class="show-info">9pm / 21+ / $5</p>
+      <p>w/ The Pact, HIGHS</p>
+      <p><a href="http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=6021505&REFERRAL_ID=twfb&pl=eb" class="btn small">Buy Tickets</a></p>
     </div>
 
   </div>
