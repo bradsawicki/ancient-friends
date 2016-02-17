@@ -9,14 +9,14 @@
 
     <h3>Next Show</h3>
     <div class="show">
-      <h4>Friday, November 27</h4>
+      <h4>Tuesday, March 8</h4>
       <p class="show-info">
-        <a href="https://www.ticketfly.com/purchase/event/1002471" target="_blank">Subterranean</a>
+        <a href="http://www.hideoutchicago.com/event/1096607-van-allen-belt-chicago/" target="_blank">Hideout</a>
       </p>
-      <p class="show-info">Chicago, IL (<a href="https://goo.gl/maps/hzhTwLrYYQ92" target="_blank">Map</a>)</p>
-      <p class="show-info">9pm / 21+ / $8</p>
-      <p>w/ North By North, Hand Practices, The Giving Moon</p>
-      <p><a href="https://www.ticketfly.com/purchase/event/1002471" class="btn small">Buy Tickets</a></p>
+      <p class="show-info">Chicago, IL (<a href="https://goo.gl/maps/8V5Wi1fnDSC2" target="_blank">Map</a>)</p>
+      <p class="show-info">9pm / 21+ / $7</p>
+      <p>w/ Van Allen Belt, Animal Holograms</p>
+      <p><a href="https://www.ticketfly.com/purchase/event/1096607" class="btn small">Buy Tickets</a></p>
     </div>
 
   </div>
