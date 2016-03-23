@@ -14,6 +14,6 @@
 
   <header class="header">
     <div class="wrapper">
-      <img src="/assets/images/af-title-boat.jpg" alt="Ancient Friends">
+      <img src="/assets/images/af-title-boat.jpg" alt="Ancient Friends" class="logo">
     </div>
   </header>

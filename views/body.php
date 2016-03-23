@@ -1,7 +1,7 @@
 <section class="main">
   <div class="wrapper">
 
-    <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1446188036/size=large/bgcol=000000/linkcol=a80023/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://ancientfriends.bandcamp.com/album/boat">Boat by Ancient Friends</a></iframe>
+    <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1446188036/size=large/bgcol=000000/linkcol=ff2119/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://ancientfriends.bandcamp.com/album/boat">Boat by Ancient Friends</a></iframe>
 
     <h2>New EP: <em>Boat</em></h2>
     <p class="album-links"><a href="https://ancientfriends.bandcamp.com/album/boat">Download</a></p>

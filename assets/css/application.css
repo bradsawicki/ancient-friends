@@ -270,10 +270,10 @@ a {
   -o-transition: all 0.15s ease-in;
   -webkit-transition: all 0.15s ease-in;
   transition: all 0.15s ease-in;
-  color: #a80023;
+  color: #ff2119;
 }
 a:hover {
-  color: #db002e;
+  color: #e50800;
 }
 
 .btn {
@@ -281,7 +281,7 @@ a:hover {
   font-size: 1.5rem;
   display: block;
   padding: 0.75em 1.25em;
-  background: #a80023;
+  background: #ff2119;
   color: #fff;
   font-weight: 700;
   text-transform: uppercase;
@@ -294,7 +294,7 @@ a:hover {
 }
 .btn:hover {
   color: #fff;
-  background: #db002e;
+  background: #e50800;
 }
 .btn.small {
   font-size: 20px;
@@ -309,6 +309,10 @@ a:hover {
   .header {
     padding: 3em 0 2em;
   }
+}
+
+.logo {
+  max-width: 600px;
 }
 
 .footer {

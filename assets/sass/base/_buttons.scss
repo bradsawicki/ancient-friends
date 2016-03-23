@@ -2,9 +2,9 @@
 a {
 	@include transition(all 0.15s ease-in);
 	color: $red;
-	
+
   &:hover {
-    color: lighten($red, 10%);
+    color: darken($red, 10%);
   }
 }
 
@@ -21,12 +21,12 @@ a {
   @include bp-min-width($large) {
     display: inline-block;
   }
-  
+
   &:hover {
     color: #fff;
-    background: lighten($red, 10%);
+    background: darken($red, 10%);
   }
-  
+
   &.small {
     @include font-size(20px);
   }
