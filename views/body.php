@@ -9,14 +9,14 @@
 
     <h3>Next Show</h3>
     <div class="show">
-      <h4>Tuesday, March 8</h4>
+      <h4>Tuesday, April 5</h4>
       <p class="show-info">
-        <a href="http://www.hideoutchicago.com/event/1096607-van-allen-belt-chicago/" target="_blank">Hideout</a>
+        <a href="http://emptybottle.com/?event_id=6506635" target="_blank">The Empty Bottle</a>
       </p>
-      <p class="show-info">Chicago, IL (<a href="https://goo.gl/maps/8V5Wi1fnDSC2" target="_blank">Map</a>)</p>
-      <p class="show-info">9pm / 21+ / $7</p>
-      <p>w/ Van Allen Belt, Animal Holograms</p>
-      <p><a href="https://www.ticketfly.com/purchase/event/1096607" class="btn small">Buy Tickets</a></p>
+      <p class="show-info">Chicago, IL (<a href="https://goo.gl/maps/7QCRGC8H55T2" target="_blank">Map</a>)</p>
+      <p class="show-info">9pm / 21+ / $10/12</p>
+      <p>w/ The Yawpers, Blackfoot Gypsies</p>
+      <p><a href="http://emptybottle.com/?event_id=6506635" class="btn small">Buy Tickets</a></p>
     </div>
 
   </div>
